@@ -19,6 +19,7 @@ for (let i = 1; i < 7; i++) {
         energy -= 1;}
     }  
 }
+
 console.log(energy)
 console.log(happiness)
 
